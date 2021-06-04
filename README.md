@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me twiter TejeshKamble2
+- 📫 Reach me at twitter TejeshKamble2
 
 <!---
 tejeshkamble/tejeshkamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
